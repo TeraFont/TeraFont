@@ -1,6 +1,8 @@
 # TeraFont
 
-A bitmap font by [Dmitry Kudriavtsev](https://github.com/dkudriavtsev).
+![Image](https://github.com/TeraFont/TeraFont/raw/master/terafont.png)
+
+A bitmap font by [Dmitry Kudriavtsev](https://www.github.com/dkudriavtsev).
 
 Licensed under the SIL OFL.
 
